@@ -1,3 +1,3 @@
 # Inpainting-stage-Imagine
-Méthode d'inpainting crée lors de mon stage au laboratoire IMAGINE
-Code c++ développé sur kubuntu avec qt creator
+Inpainting method implemented during my instership at IMAGINE lab
+The code is in C++
